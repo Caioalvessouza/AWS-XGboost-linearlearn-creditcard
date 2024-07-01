@@ -16,3 +16,29 @@ Primeiro, é feito as importações das bibliotecas necessárias:
 
 ## Carregamento e processamento dos Dados
 
+------------------------------
+
+## Análise descritiva e visualização
+
+-------------------------
+
+## Divisão da base de dados em treinamento e teste
+
+--------------------------
+
+## Salvando as bases de treinamento e teste
+
+-------------------------
+
+## Configurações SageMaker
+
+---------------------
+
+## Treinamento do XGBoost
+
+-----------------------
+
+## Deploy, previsões e avaliação
+
+
+
