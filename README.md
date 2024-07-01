@@ -53,22 +53,23 @@ Remoção de colunas intermediárias após a criação das novas colunas.
 
  3 - Divisão dos Dados:
 Separação dos dados em conjuntos de treinamento (21000 linhas) e teste (9000 linhas).
-Visualização de Correlação:
+
+4- Visualização de Correlação:
 Geração de um mapa de calor para visualizar a correlação entre variáveis.
 
-4 - Treinamento e Teste:
+5 - Treinamento e Teste:
 Criação e separação das variáveis independentes (X_teste) e dependentes (y_teste).
 Salvamento dos Dados:
 Salvamento das bases de treinamento e teste.
 
-5 - Deploy e Previsão com Modelo:
+6 - Deploy e Previsão com Modelo:
 Implementação de um modelo XGBoost.
 Previsão nos dados de teste e avaliação do modelo.
 
-6 - Avaliação do Modelo:
+7 - Avaliação do Modelo:
 Cálculo das métricas de erro: MAE, MSE e RMSE.
 
-7 - Encerramento:
+8 - Encerramento:
 Exclusão do endpoint do modelo no AWS.
 
 
