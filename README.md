@@ -1,4 +1,4 @@
-# Modelo de Previsão de Limite de Cartão de Crédito para a FinTech Nova Geração utilizando XGBoost
+# Modelo de Previsão Limite de Cartão de Crédito para a FinTech Nova Geração utilizando XGBoost no AWS
 
 ## Problema de Negócio
 A FinTech Nova Geração enfrenta desafios significativos na determinação do limite de crédito de cartão para novos clientes, resultando em atribuições inadequadas que podem levar tanto à concessão excessiva quanto à insuficiência de crédito. Para melhorar a precisão e eficiência dessa análise, a instituição busca desenvolver um modelo de machine learning que automatize o processo de determinação do limite de crédito de cartão para cada cliente.
