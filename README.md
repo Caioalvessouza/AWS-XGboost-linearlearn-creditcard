@@ -76,3 +76,4 @@ Exclusão do endpoint do modelo no AWS.
 
 O modelo XGBoost treinado apresentou um desempenho razoável, com um MAE (Erro Médio Absoluto) de 76.552,94, um MSE (Erro Quadrático Médio) de 10.886.941.880,65 e um RMSE (Raiz do Erro Quadrático Médio) de 104.340,51. Embora o erro seja relativamente alto, o modelo conseguiu prever valores com um grau de precisão aceitável dado a complexidade dos dados de crédito.
 A análise de correlação entre variáveis e a subsequente redução de dimensionalidade permitiram a criação de um modelo mais simplificado e eficiente. A divisão dos dados em conjuntos de treinamento e teste garantiu uma validação adequada da performance do modelo.
+Com ajustes adicionais nos hiperparâmetros e possíveis otimizações, espera-se que a acurácia do modelo possa ser ainda mais aprimorada, contribuindo significativamente para a tomada de decisões na análise de crédito.
