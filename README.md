@@ -9,3 +9,10 @@ Atualmente, o processo manual de definição do limite de crédito de cartão da
 ## Insights da Codificação
 A seguir está o processo completo de codificação usado para desenvolver o modelo de machine learning utilizando o algoritmo XGBoost no AWS ( Amazom Web Services)
 
+## Importação de Bibliotecas
+Primeiro, é feito as importações das bibliotecas necessárias:
+
+------------------------------
+
+## Carregamento e processamento dos Dados
+
