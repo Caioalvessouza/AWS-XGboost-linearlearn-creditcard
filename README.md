@@ -39,6 +39,40 @@ Primeiro, é feito as importações das bibliotecas necessárias:
 -----------------------
 
 ## Deploy, previsões e avaliação
+-------------------------------
 
 
+## Principais Pontos Abordados:
+1 - Importação dos Dados:
+Leitura do arquivo
 
+2 - Limpeza e Pré-processamento:
+Remoção de colunas desnecessárias.
+Criação de novas colunas (BILL_TOTAL e PAY_TOTAL) a partir de somas de outras colunas.
+Remoção de colunas intermediárias após a criação das novas colunas.
+
+ 3 - Divisão dos Dados:
+Separação dos dados em conjuntos de treinamento (21000 linhas) e teste (9000 linhas).
+Visualização de Correlação:
+Geração de um mapa de calor para visualizar a correlação entre variáveis.
+
+4 - Treinamento e Teste:
+Criação e separação das variáveis independentes (X_teste) e dependentes (y_teste).
+Salvamento dos Dados:
+Salvamento das bases de treinamento e teste.
+
+5 - Deploy e Previsão com Modelo:
+Implementação de um modelo XGBoost.
+Previsão nos dados de teste e avaliação do modelo.
+
+6 - Avaliação do Modelo:
+Cálculo das métricas de erro: MAE, MSE e RMSE.
+
+7 - Encerramento:
+Exclusão do endpoint do modelo no AWS.
+
+
+## Conclusão e Resumo dos Resultados:
+
+O modelo XGBoost treinado apresentou um desempenho razoável, com um MAE (Erro Médio Absoluto) de 76.552,94, um MSE (Erro Quadrático Médio) de 10.886.941.880,65 e um RMSE (Raiz do Erro Quadrático Médio) de 104.340,51. Embora o erro seja relativamente alto, o modelo conseguiu prever valores com um grau de precisão aceitável dado a complexidade dos dados de crédito.
+A análise de correlação entre variáveis e a subsequente redução de dimensionalidade permitiram a criação de um modelo mais simplificado e eficiente. A divisão dos dados em conjuntos de treinamento e teste garantiu uma validação adequada da performance do modelo.
