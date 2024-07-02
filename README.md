@@ -16,11 +16,12 @@ Primeiro, é feito as importações das bibliotecas necessárias:
 
 ## Carregamento e processamento dos Dados
 
-------------------------------
+![Importação_de_Bibliotecas](img/xg_carregamento_processamentos_dados_2.png)
 
 ## Análise descritiva e visualização
 
--------------------------
+![Importação_de_Bibliotecas](img/analise_descritiva_visualização_dados.png)
+![Importação_de_Bibliotecas](img/analise_descritiva_visualização_dados2.png)
 
 ## Divisão da base de dados em treinamento e teste
 
