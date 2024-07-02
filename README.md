@@ -12,7 +12,7 @@ A seguir está o processo completo de codificação usado para desenvolver o mod
 ## Importação de Bibliotecas
 Primeiro, é feito as importações das bibliotecas necessárias:
 
-------------------------------
+![Importação_de_Bibliotecas](img/xg_Importação_de_Bibliotecas.png)
 
 ## Carregamento e processamento dos Dados
 
