@@ -24,24 +24,22 @@ Primeiro, é feito as importações das bibliotecas necessárias:
 ![Importação_de_Bibliotecas](img/analise_descritiva_visualização_dados2.png)
 
 ## Divisão da base de dados em treinamento e teste
-
---------------------------
+![Importação_de_Bibliotecas](img/divisao_base_dados_treinamento_teste.png)
 
 ## Salvando as bases de treinamento e teste
 
--------------------------
+![Importação_de_Bibliotecas](img/Salvando_bases_de_treinamento_teste.png)
 
 ## Configurações SageMaker
-
----------------------
+![Importação_de_Bibliotecas](img/configuracao_sagemaker.png)
 
 ## Treinamento do XGBoost
 
------------------------
+![Importação_de_Bibliotecas](img/treinamento_XGBoost.png)
 
 ## Deploy, previsões e avaliação
--------------------------------
 
+![Importação_de_Bibliotecas](img/xg_deploy_previsões_avaliação.png)
 
 ## Principais Pontos Abordados:
 1 - Importação dos Dados:
